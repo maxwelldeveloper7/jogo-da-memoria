@@ -1,2 +1,2 @@
 # jogo-da-memoria
-Criando um ogo da memória com Emojs utilizando Javascript
+Criando um Jogo da Memória com Emojs utilizando Javascript
